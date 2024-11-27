@@ -1,0 +1,52 @@
+.divin {
+    position: relative;
+    left: 25%;
+    display: inline-block;
+    border: solid 1px black;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+
+#start {
+    position: relative;
+    left: 44%;
+    height: 60px;
+    width: 150px;
+    background-color: red;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+p {
+    position: absolute;
+    left: 35%;
+    top: 0px;
+    height: 60px;
+    width: 150px;
+    font-size: 30px;
+}
+
+#showAll {
+    position: relative;
+    left: 44%;
+    height: 60px;
+    width: 150px;
+    background-color: grey;
+    font-size: 30px;
+}
+
+.img16 {
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    overflow: hidden;
+    width: 148px;
+    height: 148px;
+}
+
+.soru {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
